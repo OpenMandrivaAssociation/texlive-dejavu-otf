@@ -1,6 +1,6 @@
 Name:		texlive-dejavu-otf
 Version:	45991
-Release:	1
+Release:	2
 Summary:	Support for the ttf and otf DejaVu fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dejavu-otf
