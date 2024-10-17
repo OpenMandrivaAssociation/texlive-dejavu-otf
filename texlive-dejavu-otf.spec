@@ -3,7 +3,7 @@ Version:	45991
 Release:	2
 Summary:	Support for the ttf and otf DejaVu fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dejavu-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dejavu-otf
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dejavu-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dejavu-otf.doc.r%{version}.tar.xz
